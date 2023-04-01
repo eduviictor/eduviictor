@@ -8,4 +8,6 @@
 - 🌱 I'm currently learning clean code and clean architecture
 - 👯 I'm looking to collaborate on social projects and open source
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&count_private=true)
+
 Would you like to find me?
